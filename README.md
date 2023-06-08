@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/react native-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/expo-000020.svg?style=flat&logo=expo&logoColor=white"> 
 
   <br>
 
