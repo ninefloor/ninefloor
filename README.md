@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=240&section=header&text=ninefloor&fontSize=50&descSize=20&desc=helloWorld,%20I’m%20Frontend%20developer.&animation=fadeIn&fontAlign=80&fontAlignY=35&descAlign=74&descAlignY=50)
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=240&section=header&text=ninefloor&fontSize=50&descSize=20&desc=helloWorld,%20I’m%20Frontend%20developer.&animation=fadeIn&fontAlign=80&fontAlignY=35&descAlign=74&descAlignY=50" />
+</div>
+
 
 <div align="center" style="font-size: 20px; font-weight: bold">
 함께 일하는 사람들이 믿을 수 있는 프론트엔드 개발자가 되고자 합니다.
@@ -32,8 +35,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 </div>
-
----
 
 ## Github Stats
 
