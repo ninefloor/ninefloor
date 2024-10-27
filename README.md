@@ -9,14 +9,22 @@
 
 <br>
 
-## Currently Learning
+---
 
 <br>
 <div align="center">
-  
+
+  <img src="https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Dart-03589c?style=for-the-badge&logo=dart&logoColor=white"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white"> 
@@ -24,8 +32,9 @@
   <br>
   <br>
 
+  <img src="https://img.shields.io/badge/React Query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=white"> 
   <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Recoil-3578e5.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHdpZHRoPSIyMzY4IiB2aWV3Qm94PSIzMCAxMSAyNy41IDc4Ij48Y2lyY2xlIGN4PSI0My41IiBjeT0iMTguNSIgZmlsbD0iI2ZmZiIgcj0iNy41Ii8+PGNpcmNsZSBjeD0iNDMuNSIgY3k9IjgxLjUiIGZpbGw9IiNmZmYiIHI9IjcuNSIvPjxnIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIj48cGF0aCBkPSJNNDMuOTk5IDI1QzQyLjUgMzcgNTcuNSAzNCA1Ny41IDQyLjVjMCA1LTUuODc4IDYuMzY1LTEzLjUwMSA3QzM3Ljk5OSA1MCAzMCA1MCAzMCA1OHMxNiA1LjUgMTMuOTk5IDE3TTM0LjEzMiAzMy4zNTNjMCAxNS4yODkgMjMuMTUgMTguMjg5IDIzLjE1IDMyLjYyIi8+PC9nPjwvc3ZnPg==&logoColor=white"> 
   <img src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=for-the-badge&logo=PostCSS&logoColor=white"> 
   <img src="https://img.shields.io/badge/styled components-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white">
@@ -33,8 +42,17 @@
   <br>
   <br>
 
+  <img src="https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/mongoose-F04D35.svg?style=for-the-badge&logo=mongoosedotws&logoColor=white">
+  <img src="https://img.shields.io/badge/prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/trpc-2596BE.svg?style=for-the-badge&logo=trpc&logoColor=white">
+
+  <br>
+  <br>
+
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=Amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
