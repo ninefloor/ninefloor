@@ -4,7 +4,7 @@
 
 
 <div align="center" style="font-size: 20px; font-weight: bold">
-함께 일하는 사람들이 믿을 수 있는 프론트엔드 개발자가 되고자 합니다.
+함께 일하는 사람들이 믿을 수 있는 개발자가 되고자 합니다.
 </div>
 
 <br>
